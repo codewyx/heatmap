@@ -5,7 +5,7 @@ import {
   createHashRouter,
   RouterProvider,
 } from "react-router-dom";
-import LoadApp from './components/load_app';
+import LoadApp from './components/load-app';
 
 const router = createHashRouter([
   {
