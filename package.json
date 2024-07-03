@@ -14,6 +14,8 @@
     "@semi-bot/semi-theme-feishu-dashboard": "^1.0.4",
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.0",
+    "@visactor/vchart": "^1.11.5",
+    "@visactor/vchart-theme": "^1.11.5",
     "@vitejs/plugin-react": "^4.2.1",
     "classnames": "^2.5.1",
     "dayjs": "^1.11.11",

@@ -1,12 +1,14 @@
 {
-  "label.display.viewtype": "View Type",
-  "label.display.viewtype.grid": "Grid",
-  "label.display.viewtype.row": "List",
-  "label.display.select.table": "Select Table",
-  "label.display.select.view": "Select View",
-  "label.display.select.title": "Title Column",
-  "label.display.select.link": "Link Column",
-  "label.display.select.icon": "Icon Column",
-  "label.empty": "No Data Available",
-  "confirm": "Confirm"
+  "label.display.select.table": "Select table",
+  "label.display.select.view": "Select view",
+  "label.display.select.category": "Select field",
+  "label.display.select.x": "X-axis field",
+  "label.display.select.y": "Y-axis field",
+  "label.display.select.color": "Select color",
+  "label.display.select.data": "Data field",
+  "label.display.select.add": "Add",
+  "label.empty": "No data available",
+  "confirm": "Confirm",
+  "label.display.color.error.title": "Prompt",
+  "label.display.color.error.content": "The color is empty or duplicates an existing color"
 }

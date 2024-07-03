@@ -2,7 +2,7 @@ import './App.scss';
 import './locales/i18n';
 import 'dayjs/locale/zh-cn';
 import 'dayjs/locale/en';
-import Heatmap from './components/heat-map'
+import Heatmap from './components/HeatMap'
 import { useTheme } from './hooks';
 
 

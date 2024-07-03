@@ -1,12 +1,14 @@
 {
-  "label.display.viewtype": "类型",
-  "label.display.viewtype.grid": "网格",
-  "label.display.viewtype.row": "列表",
   "label.display.select.table": "选择数据表",
   "label.display.select.view": "选择视图",
-  "label.display.select.title": "标题列",
-  "label.display.select.link": "链接列",
-  "label.display.select.icon": "图标列",
+  "label.display.select.category": "选择字段",
+  "label.display.select.x": "X轴字段",
+  "label.display.select.y": "Y轴字段",
+  "label.display.select.color": "选择颜色",
+  "label.display.select.data": "数据字段",
+  "label.display.select.add": "增加",
   "label.empty": "暂无数据",
-  "confirm": "确认"
+  "confirm": "确认",
+  "label.display.color.error.title":"提示",
+  "label.display.color.error.content":"颜色为空或与已有颜色重复"
 }
